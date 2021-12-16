@@ -1,7 +1,7 @@
 <p align="center">
   <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets/logo_big_transparent.png" />
 </p>
-<h1 align="center">Fosscord</h1>
+<h1 align="center">Tamcord</h1>
 
 <p align="center">
    <a href="https://discord.gg/ZrnGQP6p3d">
@@ -14,12 +14,12 @@
   </a>
 </p>
 
-### [About](https://fosscord.com/)
+### [About](https://tamcord.com/)
 
-Fosscord is a **f**ree **o**pen **s**ource **s**elfhostable dis**cord** compatible chat, voice and video platform
+**Tamcord** is a copy of [fosscord](https://github.com/fosscord/fosscord).
 
 * **Discord-compatible** (Communicate with all friends who are "still" using discord.com)
-* **Selfhostable** ([Download Server](https://github.com/fosscord/fosscord-server/releases))
+* **Selfhostable** ([Download Server](https://github.com/tamcord/tamcord-server/releases))
 * **Open Source** ([GitHub Organization]())
 * **Configurable** (Configure every aspect and limits to your needs)
 * **Decentralized** (no abuse of power and doesn't have a single point of failure)
@@ -28,12 +28,10 @@ Fosscord is a **f**ree **o**pen **s**ource **s**elfhostable dis**cord** compatib
 * **Encrypted** (End to end encryption for secure and private conversation)
 * **Secure** (publicly audited and hosted FOSS software for transparent foundation in terms of security)
 
-Logo by [@nwlandas](https://twitter.com/nwlandas).
-
 ### Installation
 
 * Client coming soon
-* [Server](https://github.com/fosscord/fosscord-server/releases) (very early pre release)
+* [Server](https://github.com/tamcord/tamcord-server/releases) (very early pre release)
 
 ### Support
 
@@ -46,29 +44,7 @@ If we are finished we'll host our own support server.
 
 | Repo name | Brief description |
 | :--- | :--- |
-| [Server](https://github.com/fosscord/fosscord-Server) | Fosscord API + Gateway + CDN Server + WebRTC + Admin Dashboard |
-| [Client](https://github.com/fosscord/fosscord-client) | Fosscord Client compatible with fosscord-server and discord.com |
+| [Server](https://github.com/tamcord/tamcord-server) | Tamcord API + Gateway + CDN Server + WebRTC + Admin Dashboard |
+| [Client](https://github.com/fosscord/fosscord-client) | Tamcord Client compatible with tamcord-server/fosscord and discord.com |
 | [UI](https://github.com/fosscord/fosscord-ui) | Open Source CSS framework in the style of Discord |
-| [Docs](https://github.com/fosscord/fosscord-docs) | Documentation of Fosscord |
-
-### Contribute
-
-This project is only possible by volunteers like you and me, your contribution is very much appreciated.
-
-If you would like to contribute then [read this guide](https://docs.fosscord.com/contributing/server/).
-
-### License
-
-Copyright (C) 2021 Fosscord and Fosscord Contributors
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as
-published by the Free Software Foundation version 3 of the
-License
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see https://www.gnu.org/licenses/agpl-3.0.de.html
+| [Docs](https://github.com/tamcord/tamcord-docs) | Documentation of Tamcord |
